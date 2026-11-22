@@ -1,0 +1,5 @@
+one_tag= ("trending",)
+not_tuple= ("trending")
+print(one_tag)
+print(type(not_tuple))
+print(type(one_tag ))
